@@ -3,10 +3,10 @@ import urllib2 as urllib
 
 # See assignment1.html instructions or README for how to get these credentials
 
-api_key = "<Enter api key>"
-api_secret = "<Enter api secret>"
-access_token_key = "<Enter your access token key here>"
-access_token_secret = "<Enter your access token secret here>"
+api_key = "IyXehcu5Hl05Rctk3uZC0a5yn"
+api_secret = "RUbKISaUu5yWoEJpps1FGNlKwvQ6FHgRnvQjca0YuNkhmLGGnI"
+access_token_key = "14993576-q715VbSOXkvKrQEJqpea03TRjDAP9FnZ8C7U32woA"
+access_token_secret = "pTJ4P4F9lxva1XJcYzYCLpZLC2wzxsCetWOSTHlFl01Y7"
 
 _debug = 0
 
